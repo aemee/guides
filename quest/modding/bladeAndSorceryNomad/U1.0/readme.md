@@ -81,4 +81,4 @@ Once you have booted into Nomad, when you get prompted to, allow the loading of 
 When you are in Crysal Hunt or Sandbox mode, check your Menu > Mods page to see the loaded mods.
 Some mods work right away while others require you to look for them or spawn them in.
 
-#End
+# EOF
