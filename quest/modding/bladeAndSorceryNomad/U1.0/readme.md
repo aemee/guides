@@ -3,6 +3,8 @@
 Will try to keep things short and easy to follow.
 Mostly for Windows PC but you can also do it from the headset if you have the right file manager installed.
 
+[Looking for compatible mods](looking-for-compatible-mods)
+
 ## Prerequisites
 
 - v1.0+ of Blade & Sorcery: Nomad installed and launched at least once to generate the folder structure
