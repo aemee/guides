@@ -5,8 +5,9 @@ Mostly for Windows PC but you can also do it from the headset if you have the ri
 
 - [Prerequisites](#Prerequisites)
 - [Looking for compatible mods](#looking-for-compatible-mods)
-- [Downloading and extracting the mods](#downloading)
--
+- [Downloading and extracting the mods](#Downloading-and-extracting-the-mods)
+- [Transferring the mods onto your headset](#Transferring-the-mods-onto-your-headset)
+- [Allow loading of mods](#Allow-loading-of-mods)
 
 ## Prerequisites
 
